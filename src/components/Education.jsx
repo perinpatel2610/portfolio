@@ -54,14 +54,10 @@ const Education = () => {
             </div>
             
             <div style={{ paddingBottom: '1rem', borderBottom: '1px solid var(--surface-border)' }}>
-              <h4 style={{ color: 'var(--text-primary)', fontSize: '1.1rem', marginBottom: '0.25rem' }}>Getting Started with AWS Generative AI for Developers</h4>
+              <h4 style={{ color: 'var(--text-primary)', fontSize: '1.1rem', marginBottom: '0.25rem' }}>AWS Generative AI and AI Agents with Amazon Bedrock</h4>
               <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>Amazon Web Services</p>
             </div>
             
-            <div>
-              <h4 style={{ color: 'var(--text-primary)', fontSize: '1.1rem', marginBottom: '0.25rem' }}>Generative AI Applications with Amazon Bedrock</h4>
-              <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>Amazon Web Services</p>
-            </div>
           </div>
         </div>
       </div>
